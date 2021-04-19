@@ -44,8 +44,23 @@
 - [Testing Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/08.TestingAndCI/Testing.html)
 - [Integration Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/08.TestingAndCI/Integration.html)
 
-
 # Module 8 (Virtualization)
+- [Virtualization](https://en.wikipedia.org/wiki/Virtualization)
+- [Hardware Virtualization](https://en.wikipedia.org/wiki/Virtualization)
+- [Using Virtual Machines and Docker](https://goo.gl/sRVT7o)
+- [Oracle VirtualBox](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+- [Docker Get Started](https://docs.docker.com/get-started/)
+- [VA Scheduling Competition](https://vascheduling.devpost.com/)
+- [Rackspace](https://www.rackspace.com/)
+- [Virtual Box](https://www.virtualbox.org/)
+- [Virtual Box Manual](https://www.virtualbox.org/manual/UserManual.html)
+- [Virtual Box Wiki](https://www.virtualbox.org/wiki)
+- [Lab Handout](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/09.Virtualization/Lab-Virtualization.md)
+- [Lab Instructions](https://github.com/rcos/docker-examples/tree/Spring2019)
+- [Lecture Part 2](https://www.youtube.com/watch?v=0diWjs3AMZs&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=30)
+- [Lecture Part 3](https://www.youtube.com/watch?v=KltPiqMqjH8&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=31)
+- [Lecture Part 4](https://www.youtube.com/watch?v=cjk1PSroNsY&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=32)
+- [Slides](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/09.Virtualization/source/index.rst)
 
 # Module 9 (Databases)
 
