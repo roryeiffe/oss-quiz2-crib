@@ -89,6 +89,23 @@ docker container ls -aq
 
 # Module 9 (Databases)
 
+- [Mongo Cheat Sheet](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/10.Databases/MongoDB_Shell_Cheat_Sheet.pdf)
+- [MongoDB Manual](https://docs.mongodb.com/manual/)
+- [What is a database](https://en.wikipedia.org/wiki/Database)
+- [Top Ten Databases](https://www.databasejournal.com/features/oracle/slideshows/top-10-2019-databases.html)
+- [Mongo Docker](https://www.bmc.com/blogs/mongodb-docker-container/)
+- [Lab](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/10.Databases/Lab-Databases.md)
+- [Slides](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/10.Databases/source/index.rst)
+- [Lecture Part 1](https://www.youtube.com/watch?v=WeJmpQKlQRg&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=33)
+- [Lecture Part 2](https://www.youtube.com/watch?v=v_Ez-ycgOUM&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=34)
+- [Lecture Part 3](https://www.youtube.com/watch?v=hDpZgVdjuOI&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=35)
+- [Lecture Part 4](https://www.youtube.com/watch?v=cBTgwcp2KfU&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=36)
+
+
+
 # Module 10 (TensorFlow)
 
 
+- [Lecture Part 2](https://www.youtube.com/watch?v=bVAejUL4P7w&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=38)
+- [Lecture Part 3](https://www.youtube.com/watch?v=mIm4VhGeK-c&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=39)
+- [Lecuture Part 4](https://www.youtube.com/watch?v=C-HqZzsxwl0&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=40)
