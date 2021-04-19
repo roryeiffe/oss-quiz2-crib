@@ -106,7 +106,12 @@ docker container ls -aq
 
 # Module 10 (TensorFlow)
 
-
+- [Tensor Flow Guide](https://www.tensorflow.org/guide)
+- [Github Page](https://github.com/tensorflow/tensorflow)
+- [Community Overview](https://www.tensorflow.org/community/)
+- [Blog](https://blog.tensorflow.org/)
+- [Tutorial](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
+- [Slides](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/11.TensorFlow/source/index.rst)
 - [Lecture Part 2](https://www.youtube.com/watch?v=bVAejUL4P7w&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=38)
 - [Lecture Part 3](https://www.youtube.com/watch?v=mIm4VhGeK-c&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=39)
 - [Lecuture Part 4](https://www.youtube.com/watch?v=C-HqZzsxwl0&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=40)
