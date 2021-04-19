@@ -55,12 +55,37 @@
 - [Virtual Box](https://www.virtualbox.org/)
 - [Virtual Box Manual](https://www.virtualbox.org/manual/UserManual.html)
 - [Virtual Box Wiki](https://www.virtualbox.org/wiki)
+- [What is a container?](https://www.docker.com/resources/what-container#/virtual_machines)
+- [Docker Tutorial](https://docs.docker.com/get-started/)
 - [Lab Handout](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/09.Virtualization/Lab-Virtualization.md)
 - [Lab Instructions](https://github.com/rcos/docker-examples/tree/Spring2019)
 - [Lecture Part 2](https://www.youtube.com/watch?v=0diWjs3AMZs&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=30)
 - [Lecture Part 3](https://www.youtube.com/watch?v=KltPiqMqjH8&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=31)
 - [Lecture Part 4](https://www.youtube.com/watch?v=cjk1PSroNsY&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=32)
 - [Slides](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/09.Virtualization/source/index.rst)
+
+Cheat Sheet:
+```
+## List Docker CLI commands
+docker
+docker container --help
+
+## Display Docker version and info
+docker --version
+docker version
+docker info
+
+## Execute Docker image
+docker run hello-world
+
+## List Docker images
+docker image ls
+
+## List Docker containers (running, all, all in quiet mode)
+docker container ls
+docker container ls --all
+docker container ls -aq
+```
 
 # Module 9 (Databases)
 
