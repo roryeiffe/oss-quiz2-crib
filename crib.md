@@ -111,6 +111,7 @@ docker container ls -aq
 - [Community Overview](https://www.tensorflow.org/community/)
 - [Blog](https://blog.tensorflow.org/)
 - [Tutorial](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
+- [Lab Handout](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/11.TensorFlow/Lab-TensorFlow.md)
 - [Slides](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/11.TensorFlow/source/index.rst)
 - [Lecture Part 2](https://www.youtube.com/watch?v=bVAejUL4P7w&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=38)
 - [Lecture Part 3](https://www.youtube.com/watch?v=mIm4VhGeK-c&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=39)
