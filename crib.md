@@ -26,8 +26,24 @@
 - [Lecture Part 1 (Tools)](https://www.youtube.com/watch?v=cEdKotsLnEs&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=20)
 - [Lecture Part 2 (Exercises)](https://www.youtube.com/watch?v=hCJqNayvcY8&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=21)
 - [Lecture Part 3 (Lab)](https://www.youtube.com/watch?v=p1Nw2v6oELU&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=22)
+- [Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/06.ScientificComputing/index.html)
 
 # Module 7 (Testing and CI)
+
+- [Python Testing](http://pythontesting.net/framework/unittest/unittest-introduction)
+- [doctest](http://pythontesting.net/framework/doctest/doctest-introduction)
+- [ctest](https://gitlab.kitware.com/cmake/community/wikis/doc/ctest/Testing-With-CTest)
+- [Github Continuous Integration](https://docs.github.com/en/actions/guides/about-continuous-integration)
+- [Github templates](https://docs.github.com/en/actions/guides/setting-up-continuous-integration-using-workflow-templates)
+- [Github actions](https://docs.github.com/en/actions/quickstart/)
+- [Lab Handout](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/08.TestingAndCI/Lab-TestingAndCI.md)
+- [Lab 7 check 5](https://github.com/roryeiffe/oss-lab7-step5)
+- [Lecture Part 1](https://www.youtube.com/watch?v=ZyMM_pGFJkA&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=25)
+- [Lecture Part 2](https://www.youtube.com/watch?v=IHEQZVgtK0Y&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=26)
+- [Lecture Part 4](https://www.youtube.com/watch?v=5f-HSoCARSA&list=PLaSjU4jLnEwgiZAjMr_Cp71kK_5nUykGo&index=28)
+- [Testing Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/08.TestingAndCI/Testing.html)
+- [Integration Lecture Notes](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/08.TestingAndCI/Integration.html)
+
 
 # Module 8 (Virtualization)
 
